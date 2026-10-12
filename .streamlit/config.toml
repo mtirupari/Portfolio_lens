@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#B58A22"
+backgroundColor = "#FFFDF5"
+secondaryBackgroundColor = "#EDF5E8"
+textColor = "#24392C"
+font = "serif"
+headingFont = "serif"
+baseFontSize = 18
+baseFontWeight = 500
+
+[server]
+maxUploadSize = 25

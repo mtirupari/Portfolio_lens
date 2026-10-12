@@ -1,0 +1,7 @@
+ticker,company,period,action,shares_held_after,reported_price_usd,reported_value_usd,portfolio_pct,shares_change,shares_change_pct,currency
+DEMO,Example Security,2023 Q4,initial_disclosure,100,10,1000,2.5,,,USD
+DEMO,Example Security,2024 Q1,add,120,12,1440,3.0,20,20,USD
+DEMO,Example Security,2024 Q2,reduce,90,11,990,2.0,-30,-25,USD
+DEMO,Example Security,2024 Q3,sold_out,0,10,0,0,-90,-100,USD
+DEMO,Example Security,2024 Q4,new_position,50,12,600,1.0,50,,USD
+SMALL,Small Position,2024 Q4,new_position,,20,,0.00,,,USD
